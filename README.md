@@ -1,9 +1,8 @@
 # A Simple Website 
 
-### Concepts Learnt Through this project
+### Concepts Learnt Through this Project
 
--[Inserting an Image](#Inserting an Image)
--[Adding links](#Adding Links)
--[Creating Table](#Creating Table)
--[HTML Semantics](#HTML Semantics)
-
+- [Inserting an Image](#inserting-an-image)
+- [Adding Links](#adding-links)
+- [Creating Table](#creating-table)
+- [HTML Semantics](#html-semantics)
