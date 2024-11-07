@@ -2,7 +2,7 @@
 
 ### Concepts Learnt Through this Project
 
-- [Inserting an Image](#inserting-an-image)
-- [Adding Links](#adding-links)
-- [Creating Table](#creating-table)
-- [HTML Semantics](#html-semantics)
+- [Inserting an Image]
+- [Adding Links]
+- [Creating Table]
+- [HTML Semantics]
