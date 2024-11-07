@@ -1,0 +1,60 @@
+.Youtube {
+    background-color: rgb(216, 38, 38);
+    color: white;
+    border: none;
+    height: 30px;
+    width: 80px;
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+.Chrome{
+    background-color: rgba(42, 165, 75, 0.818);
+    color: white;
+    height: 30px;
+    width: 80px;
+    border-radius: 2px;
+    cursor: pointer;
+    border-color: black;
+}
+
+.Join{
+    background-color: white;
+    color: rgba(18, 130, 221, 0.934);
+    height: 40px;
+    width: 80px;
+    border-color: rgba(18, 130, 221, 0.934);
+    border-style: solid;
+    border-width: 2px;
+    font-size: large;
+    margin-left: 10px;
+}
+
+.Tweet{
+    background-color: rgba(18, 130, 221, 0.934);
+    color: white;
+    border: none;
+    font-size: larger;
+    font: bold;
+    height: 40px;
+    width: 80px;
+    border-radius: 30px;
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+body{
+    width:100%;
+}
+.container{
+    padding:0px 20px;
+    margin:0px 400px;
+    border:1px solid #000;
+}
+
+table,th,td,tr,caption{
+    border: 1px solid #0a0404;
+    font-family:'Courier New', Courier, monospace;
+    border-collapse:collapse ;
+    padding:0.5rem;
+}
